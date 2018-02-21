@@ -6,6 +6,7 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
+
 public class GUI {
     public static JFrame frame = new JFrame("New document | Notepad+++ 0.2");
     public GUI() {
